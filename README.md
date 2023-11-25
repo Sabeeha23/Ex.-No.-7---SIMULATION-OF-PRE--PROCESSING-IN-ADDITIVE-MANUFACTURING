@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2023-11-25 082533](https://github.com/Sabeeha23/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231876/f9acb63c-0931-44ca-a1ae-3dcdd3ad7625)
 
-### Name:
-### Register Number:
+
+### Name: Sabeeha Shaik
+### Register Number: 23012003
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
